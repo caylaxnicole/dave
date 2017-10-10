@@ -1,0 +1,16 @@
+.grey-background {
+  background-color: grey;
+}
+
+.black-background {
+  background-color: black;
+  color: white;
+}
+
+.red-background {
+  background-color: red;
+}
+
+#cat-showing {
+  display: none;
+}
